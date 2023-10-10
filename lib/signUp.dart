@@ -33,7 +33,7 @@ class _SignUpState extends State<SignUp> {
             child: Center(
               child: Card(
                 child: Container(
-        height: 500,
+        height: 510,
         width: 330,
                   child: Column(
                     children: [
